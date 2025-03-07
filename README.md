@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tianer Zhou
-- 👀 I’m interested in UI frameworks, compiler, computer graphics, machine learning...
+- 👀 I’m interested in UI frameworks, compiler, machine learning...
 - 🌱 I’m mainly working on ArkUI, native UI framework of HarmonyOS. [Gitee Repo](https://gitee.com/openharmony/arkui_ace_engine)
 - 💞️ I’m looking to collaborate on open-source projects, especially cross-platform UI frameworks, graphic libraries, LLM applications, web projects
 - 📫 How to reach me ezhoureal@gmail.com / zireael@umich.edu
