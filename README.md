@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tianer Zhou
 - 👀 I’m interested in UI frameworks, GPU porgramming, compilers, machine learning...
-- 🌱 I’m mainly working on [OpenHarmony](https://gitcode.com/openharmony), the open source backbone of HarmonyOS, now powering 50M+ mobile devices. [My Gitcode](https://gitcode.com/zhoutianer)
+- 🌱 Previously, I worked on [OpenHarmony](https://gitcode.com/openharmony), the open source backbone of HarmonyOS, now powering 80M+ mobile devices. [My Gitcode](https://gitcode.com/zhoutianer)
+- Now I'm a Master student at EPFL in Switzerland
 - 💞️ I’m looking to collaborate on open-source projects: LLM framework, agents, cross-platform UI, etc.
 - 📫 How to reach me ezhoureal@gmail.com
 
